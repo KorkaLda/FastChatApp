@@ -14,6 +14,6 @@ https://github.com/KorkaLda/ChatProject )
 <img src="https://user-images.githubusercontent.com/121565786/219981602-9c2b7c1c-9f81-4ae2-a73a-aa22690bd9db.png" width="250"/>
 
 ### Chat View
-<img src="https://user-images.githubusercontent.com/121565786/219981759-28f37430-c8f5-4210-b468-5d9832a4d552.png" width="250"/>
+<img src="https://user-images.githubusercontent.com/121565786/219982970-b80e7c28-9c39-41a2-be4b-a4c6e1210e43.png" width="250"/>
 
 
